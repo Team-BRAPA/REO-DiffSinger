@@ -19,7 +19,7 @@ Baseada na voz de [FukaOni]() **REO** é uma voz que ultiliza recursos de inteli
 
 ### Guia de uso
 
-Para informações de como utilizar Umidaji Para diffsinger no OpenUtau, por favor referir se a [esta página.](https://www.teambrapa.com.br/termos-de-uso)
+Para informações de como utilizar Umidaji Para diffsinger no OpenUtau, por favor referir se a [esta página.](https://www.teambrapa.com.br/post/como-utilizar-diffsinger-no-openutau)
 
 ***
 
