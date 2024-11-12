@@ -10,8 +10,8 @@ Perfeito para musicas com vocais estilizados: Vocaloid, Pop, Uptempo, EDM, entre
 
 
 Baseada na voz de [FukaOni](), **REO** é uma voz que utiliza recursos de inteligência artificial para transparecer naturalidade e sentimento com seu canto, pode se utilizar REO através do motor de sintetização Diffsinger no [OpenUtau.](https://github.com/stakira/OpenUtau)
-<br/>
-**Todas as vozes do Team-Brapa são criadas eticamente, seu desenvolvimento e distribuição é aprovada pelos provedores de voz.**
+<br/><br/>
+**Todas as vozes do Team Brapa são criadas eticamente, seu desenvolvimento e distribuição é aprovada pelos provedores de voz.**
 <br/>
 + Este repositório contém todas as informações necessárias para instalar e usar a REO, incluindo guias detalhados, documentação e recursos adicionais.
 
