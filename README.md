@@ -1,38 +1,38 @@
-## Biblioteca de Canto para Diffsinger REO. ✨
 
-**REO** é um vocal nativo em Português Brasileiro com um tom tenor com um ange vocal abrangente, uma voz dinâmica e com características andrógenas que proporciona graves interessantes e agudos poderosos, maleável a diversos estilos musicais. perfeito para musicas com vocais estilizados: vocaloid, pop, uptempo, edm entre outros.
-<br><br>
-Baseada na voz de [FukaOni]() **REO** é uma voz que ultiliza recursos de inteligência artificial para transparecer naturalidade e sentimento com seu canto, pode se utilizar REO através do motor de sintetização Diffsinger no [OpenUtau.]() <br><br> **Todas as vozes do Team-Brapa são criadas eticamente, seu desenvolvimento e distribuição é aprovada pelos provedores de voz.**
+# REO DiffSinger Model. ✨
+Portuguese / [English](README_EN.md) 
+<br/><br/>
 
+![REO Banner](/images/reo_banner.png)
+<br>
+**REO** é um vocal nativo em Português Brasileiro com um tom tenor com um range vocal abrangente, uma voz dinâmica e com características andrógenas que proporciona graves interessantes e agudos poderosos, maleável a diversos estilos musicais. <br/>
+Perfeito para musicas com vocais estilizados: Vocaloid, Pop, Uptempo, EDM, entre outros.
+
+
+Baseada na voz de [FukaOni](), **REO** é uma voz que utiliza recursos de inteligência artificial para transparecer naturalidade e sentimento com seu canto, pode se utilizar REO através do motor de sintetização Diffsinger no [OpenUtau.](https://github.com/stakira/OpenUtau)
+<br/>
+**Todas as vozes do Team-Brapa são criadas eticamente, seu desenvolvimento e distribuição é aprovada pelos provedores de voz.**
+<br/>
 + Este repositório contém todas as informações necessárias para instalar e usar a REO, incluindo guias detalhados, documentação e recursos adicionais.
 
-***
-
-### Downloads
-
+## Downloads
 
 | ✨🔮 | ⬇️ |
 | :---: | :---: |
-| **REO DiffSinger** para OpenUTAU | [DOWNLOAD](https://github.com/Team-BRAPA/REO-DiffSinger/releases) |
+| REO DiffSinger para OpenUTAU | [DOWNLOAD](https://github.com/Team-BRAPA/REO-DiffSinger/releases) |
 
-***
-
-### Guia de uso
+## Guia de uso
 
 Para informações de como utilizar Umidaji Para diffsinger no OpenUtau, por favor referir se a [esta página.](https://www.teambrapa.com.br/post/como-utilizar-diffsinger-no-openutau)
 
-***
-
-### Licença
+## Licença
 
 Por favor, leia e certifique-se de concordar com os termos descritos [nesses termos](https://www.teambrapa.com.br/termos-de-uso) antes de baixar e gerar áudio com Umidaji.
 
 
-***
+## Revisão rápida da Licença
 
-### Revisão rápida da Licença
-
-| ✨ REO 🔮 | Permitido | Proibido | Requer incensa |
+| ✨ REO 🔮 | Permitido | Proibido | Requer Licença |
 | :---: | :---: | :---: | :---: |
 | Uso pessoal  | ⭕ | | |
 | Uso Comercial | | | ⭕ | |
