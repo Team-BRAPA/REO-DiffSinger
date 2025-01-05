@@ -27,7 +27,7 @@ Para informações de como utilizar Umidaji Para diffsinger no OpenUtau, por fav
 
 ## Licença
 
-Por favor, leia e certifique-se de concordar com os termos descritos [nesses termos](https://www.teambrapa.com.br/termos-de-uso) antes de baixar e gerar áudio com Umidaji.
+Por favor, leia e certifique-se de concordar com os termos descritos [nesses termos](https://www.teambrapa.com.br/termos-de-uso) antes de baixar e gerar áudio com REO.
 
 
 ## Revisão rápida da Licença
